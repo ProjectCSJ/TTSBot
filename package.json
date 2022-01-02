@@ -1,0 +1,20 @@
+{
+  "name": "ttsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectCSJ/TTSBot.git"
+  },
+  "keywords": [],
+  "author": "友人Ｓ@プロジェクトＣＳＪ <yuujins@project.csj> (http://project.csj/)",
+  "license": "GLP-3.0",
+  "bugs": {
+    "url": "https://github.com/ProjectCSJ/TTSBot/issues"
+  },
+  "homepage": "https://github.com/ProjectCSJ/TTSBot#readme"
+}
